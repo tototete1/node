@@ -1,0 +1,8 @@
+install handbar : npm i express-handlebars
+Tạo thư mục views gồm 2 mục con là : -file home.handlebars
+                                     -folder :  layours gồm file main.handlebars 
+
+
+để import file vào ta thêm cú pháp 'app.set('views', path.join(__dirname, '../resource/views'));'
+
+push ảnh lên :
